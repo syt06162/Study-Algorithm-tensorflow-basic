@@ -34,7 +34,7 @@
 #
 #
 
-## model_number : 2
+## model_number : 3
 ### model
 ![image](https://user-images.githubusercontent.com/92567571/172987220-add9f96d-a19f-4f3b-85f0-8269909d7313.png)
 ### training
